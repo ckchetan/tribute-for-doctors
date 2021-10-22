@@ -1,2 +1,3 @@
-# tribute-for-doctors
-this project honors the covid maytyres
+# tribute-for-doctor 
+THIS PROJECT IS MADE USING HTML AND CSS .ON ABOUT DOCTORS WHO DIED DURING COVID-19.
+
